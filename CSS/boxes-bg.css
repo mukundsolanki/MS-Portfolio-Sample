@@ -1,0 +1,20 @@
+.box-1{
+    background-color: #000000;
+opacity: 0.9;
+background: radial-gradient(circle, transparent 20%, #000000 20%, #000000 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #000000 20%, #000000 80%, transparent 80%, transparent) 15px 15px, linear-gradient(#807474 1.2000000000000002px, transparent 1.2000000000000002px) 0 -0.6000000000000001px, linear-gradient(90deg, #807474 1.2000000000000002px, #000000 1.2000000000000002px) -0.6000000000000001px 0;
+background-size: 30px 30px, 30px 30px, 15px 15px, 15px 15px;
+}
+
+.box-2{
+    background-color: #3e3e40;
+opacity: 0.9;
+background: radial-gradient(circle, transparent 20%, #3e3e40 20%, #3e3e40 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #3e3e40 20%, #3e3e40 80%, transparent 80%, transparent) 15px 15px, linear-gradient(#070707 1.2000000000000002px, transparent 1.2000000000000002px) 0 -0.6000000000000001px, linear-gradient(90deg, #070707 1.2000000000000002px, #3e3e40 1.2000000000000002px) -0.6000000000000001px 0;
+background-size: 30px 30px, 30px 30px, 15px 15px, 15px 15px;
+}
+
+.box-3{
+    background-color: #3e3e40;
+opacity: 0.9;
+background: radial-gradient(circle, transparent 20%, #3e3e40 20%, #3e3e40 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #3e3e40 20%, #3e3e40 80%, transparent 80%, transparent) 15px 15px, linear-gradient(#070707 1.2000000000000002px, transparent 1.2000000000000002px) 0 -0.6000000000000001px, linear-gradient(90deg, #070707 1.2000000000000002px, #3e3e40 1.2000000000000002px) -0.6000000000000001px 0;
+background-size: 30px 30px, 30px 30px, 15px 15px, 15px 15px;
+}

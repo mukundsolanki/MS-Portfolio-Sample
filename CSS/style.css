@@ -1,0 +1,231 @@
+
+.navbar{
+    background-color: black;
+    width: auto;
+    height: 60px;
+    align-items: center;
+    padding-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid #c3073f;
+    border-radius: 2px;
+}
+
+.navelements{
+    font-size: 25px;
+    padding: 40px;
+    font-weight: 300;
+    text-decoration: none;
+    color: #c3073f;
+    text-shadow:  20px rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+a:hover{
+    color: white;
+}
+
+.about{
+    width: auto;
+    height: 450px;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.about1{
+    font-size: 100px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    color: white;
+}
+
+.about1 b{
+    color: #c3073f;
+    text-shadow: 7px 2px rgb(255, 255, 255);
+}
+
+.about2{
+    font-size: 30px;
+    margin-top: 3%;
+    color: white;
+}
+
+.about3{
+    text-align: center;
+    
+}
+
+.about-me-h1{
+    font-size: 55px;
+    color: #c3073f;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.about-me-p{
+    background-color: black;
+    text-align: left;
+    line-height: 1.6;
+    margin-left: 13%;
+    margin-right: 12%;
+    color: white;
+    font-style: italic;
+     
+    font-size: 20px; 
+    font-variant: normal;
+    font-weight: lighter; 
+    border: 5px solid #c3073f;
+    border-radius: 7px;
+    padding-left: 2%;
+}
+
+.kuch{
+    font-family: 'Shadows Into Light', cursive;
+    color: #d6104bdf;
+    font-size: larger;
+}
+
+.box{
+    clip-path: circle(50% at 50% 50%);
+    float: right;
+    height: 300px;
+    margin-right: 15%;
+    margin-left: 2%;
+    margin-top: 20px;
+}
+
+.views-h1{
+    text-align: left;
+    font-size: 45px;
+    margin-left: 13%;
+    color: #c3073f;
+}
+
+.views-list{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 13%;
+    line-height: 1.6;
+    padding-right: 18%;
+    color: white;
+    font-style: italic;
+    font-weight: lighter;
+
+    font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+}
+
+.contact{
+    margin: 30px 30px;
+    padding-left: 30%;
+}
+
+.contact-h1{
+    font-size: 60px;
+    color: #c3073f;
+    margin-bottom: 0;
+}
+
+.contact p{
+    font-size: 25px;
+}
+
+.contact-name{
+    height: 75px;
+    margin: 0%;
+    width:0mm;
+}
+
+.contact-email{
+    height: 75px;
+    margin: 0%;
+    width:0mm;
+}
+
+.connect{
+    background-color: black;
+    width: 100%;
+
+}
+
+.flex
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%; 
+    margin-top: 10%
+}
+
+.box-1{
+    border-color: #c3073f;
+    border-radius: 11px;
+    background-color: #3e3e40;
+    width: 300px;
+    border: 2px solid #c3073f;
+    align-items: center;
+    margin: 10px;
+}
+
+.box-2{
+    border-color: #c3073f;
+    border: 2px solid #c3073f;
+    border-radius: 11px;
+    background-color: #3e3e40;
+    width: 300px;
+    margin: 10px;
+    align-items: center;
+}
+
+.box-3{
+    border-color: #c3073f;
+    border-radius: 11px;
+    background-color: #3e3e40;
+    width: 300px;
+    align-items: center;
+    border: 2px solid #c3073f;
+    margin: 10px;
+}
+
+.flex h3{
+    font-size: 35px;
+    color: #c3073f;
+}
+
+.box-2 h3{
+    margin-bottom: 0%;
+    margin-top: 8%;
+}
+
+.flex li{
+    font-style: italic;
+    line-height: 2.0;
+    list-style: none;
+    font-size: 15px;
+    color: white;
+}
+
+.git-img{
+    height: 120px;
+    padding-left: 87px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.box-3 a{
+    margin-left: 88px;
+    font-size: x-large;
+    color: white;
+    text-decoration: none;
+}
+
+.box-2 li{
+    align-items: center;
+    font-size: 20px;
+    line-height: 2.3;
+    margin-bottom: 20px;
+}
+
+.social-menu {
+    height: 10%
+}
